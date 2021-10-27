@@ -1,0 +1,14 @@
+Package: KBE
+Type: Package
+Title: Known Boundary Emulation
+Version: 0.1.0
+Author: Samuel E. Jackson
+Maintainer: Samuel E. Jackson <samuel.e.jackson@durham.ac.uk>
+Description: Package for reproducing and exploring the Known Boundary Emulation examples
+    from the article "Efficient Emulation of Computer Models Utilising Multiple Known 
+    Boundaries of Differing Dimension".
+Imports: pdist, viridis
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
